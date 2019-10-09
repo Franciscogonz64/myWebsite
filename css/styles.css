@@ -1,0 +1,132 @@
+body {
+  background-image: url('https://i.ytimg.com/vi/kyn-NKTw49c/maxresdefault.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.social-icon:hover {
+  color: #ed1250;
+}
+
+h1 {
+  font-family: 'Oleo Script', cursive;
+  font-size: 5rem;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Cinzel', serif;
+  color: #fff;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+}
+
+hr {
+  border-color: #fff;
+  width: 30%;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.title-text {
+  text-align: center;
+  margin-bottom: 30%;
+}
+
+nav .navbar-nav li a{
+  color: white !important;
+  }
+
+.about-msg {
+  padding: 3% 5%;
+  background-color: #696464;
+  text-align: center;
+}
+
+.computer-img {
+  margin: 3%;
+  width: 15%;
+  border-radius: 5%
+}
+
+.skills-msg {
+padding: 3% 5%;
+background-color: #042f4b;
+text-align: center;
+}
+
+.skills-text{
+  margin: 3% 5%;
+}
+
+.skills-p {
+  padding-bottom: 3%
+}
+
+td {
+  padding: 1.5%;
+  font-size: 1.5rem;
+}
+
+.tr-icon {
+  color: #fff;
+}
+
+.tr-title {
+  color: #fff;
+}
+
+.project-msg {
+  padding: 3% 5%;
+  text-align: center;
+  background-color: #696464;
+}
+
+.contact-msg {
+  padding: 3% 5%;
+  text-align: center;
+  background-color: #042f4b;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  color: #fff;
+}
+
+.github-icon-link{
+
+}
+
+.footer-copyright {
+  color: #696464;
+  font-size: 1rem;
+}
+
+  #footer {
+    color: #696464;
+    text-align: center;
+    margin-top: 32%;
+  }
